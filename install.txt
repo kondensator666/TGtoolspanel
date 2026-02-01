@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+Pillow
+pywin32
+psutil
+pyautogui
+pyperclip
+pynput
+PyInstaller
